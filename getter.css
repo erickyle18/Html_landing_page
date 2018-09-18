@@ -1,0 +1,152 @@
+#box1 {
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	border-radius: 1%;
+	box-sizing: content-box;
+	width: 250px;
+	height: 250px;
+	margin-left: 10%;
+}
+
+#box2 {
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	border-radius: 1%;
+	box-sizing: content-box;
+	width: 250px;
+	height: 250px;
+}
+
+#box3 {
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	border-radius: 1%;
+	box-sizing: content-box;
+	width: 250px;
+	height: 250px;
+	margin-right: 10%;
+}
+
+.one {
+	width: 85%;
+	height: 75%;
+	background-color: lightgray;
+	margin-top: 10px;
+}
+
+.offer {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin: 80px 10px;
+}
+
+.topper {
+overflow: hidden;
+background-color: white;
+position: fixed;
+top: 0;
+width: 100%;
+height:16%;
+	
+}
+
+.topper a {
+	float: right;
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	margin-bottom: 70%
+}
+
+.pos {
+	margin-top:7%;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	padding: 50px;
+}
+
+#butt{
+	margin-top: 10px;
+	margin-left: 45%;
+	background-color: yellow;
+	font-family: helevetica;
+}
+
+#fore{
+	margin-left: 38%;
+}
+
+#name{
+	margin-left: 43%;
+}
+
+.tron{
+	margin-left: 20%
+}
+
+.rect {
+	box-sizing: content-box;
+	width: 100%;
+	height: 50px;
+	background-color: lightgray;
+	
+}
+
+#uno {
+	text-align: center;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 17px;
+}
+
+#dos {
+	text-align: center;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 17px;
+}
+
+#tres {
+	text-align: center;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 17px;
+}
+
+.red {
+	display: flex;
+	justify-content: center;
+}
+
+.one a {
+	float: right;
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.roy{
+	margin-top: 10px;
+	margin-left: 40%;
+	background-color: yellow;
+	font-family: Arial;
+}
+
+.one p {
+	float: right;
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 8px 10px;
+	text-decoration: none;
+	margin-left:60%;
+}
